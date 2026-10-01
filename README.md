@@ -1,4 +1,4 @@
-# Assignment1_PowerBI-E-commerce sales dataset
+# Assignment1-PowerBI-E-commerce sales dataset
 
 The project focuses on data import, transformation, cleansing, aggregation, and relationship modelling using Power BI and Power Query Editor.
 
