@@ -1,10 +1,21 @@
-# Project Title
+# Assignment1_PowerBI_E-commerce sales dataset
 
-Simple overview of use/purpose.
+The project focuses on data import, transformation, cleansing, aggregation, and relationship modelling using Power BI and Power Query Editor.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project focuses on analyzing an e-commerce sales dataset using Power BI. The dataset consists of three tables: List of Orders, Order Details, and Sales Target.The project covers the complete data preparation, transformation, analysis, and data modeling process, including:
+
+1)Data Import & Transformation
+2)Row Limiting & Data Types
+3)Text Formatting
+4)Column Creation
+5)Conditional Column
+6)Merging Data (Joins) 
+7)Handling Missing Data & Duplicate Data 
+8)Sorting and Filtering Data 
+9)Grouping and Aggregating Data
+10)Data Modeling
 
 ## Getting Started
 
@@ -14,9 +25,7 @@ An in-depth paragraph about your project and overview of use.
 * ex. Windows 10
 
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Power BI
 
 ### Executing program
 
